@@ -108,4 +108,4 @@ Alternatively,you can just copy and paste the above code snippet inside your htm
 
 
 
-![Sample](https://github.com/Govind-Deshmukh/SweetalertJS-with-Python-Flask/image/display.png)  |  !
+![Sample](https://github.com/Govind-Deshmukh/SweetalertJS-with-Python-Flask/blob/main/image/display.png)  |  !
