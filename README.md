@@ -107,14 +107,5 @@ Alternatively,you can just copy and paste the above code snippet inside your htm
 
 
 
-Success             |  Information
-:-------------------------:|:-------------------------:
-![Sample](https://github.com/Dev-Elie/SweetAlert-Js-with-Flask/blob/main/static/success.png)  |  ![Sample](https://github.com/Dev-Elie/SweetAlert-Js-with-Flask/blob/main/static/info.png)
 
-Danger           |  Warning
-:-------------------------:|:-------------------------:
-![Sample](https://github.com/Dev-Elie/SweetAlert-Js-with-Flask/blob/main/static/danger.png)  |  ![Sample](https://github.com/Dev-Elie/SweetAlert-Js-with-Flask/blob/main/static/warning.png)
-
-</br></br>
-<div align="center"><h1>Let's connect on Twitter</h1></div>
-<p align="center"> <a href="https://twitter.com/dev_elie" target="blank"><img src="https://img.shields.io/twitter/follow/dev_elie?logo=twitter&style=for-the-badge" alt="dev_elie" /></a> </p>
+![Sample](https://github.com/Govind-Deshmukh/SweetalertJS-with-Python-Flask/image/display.png)  |  !
